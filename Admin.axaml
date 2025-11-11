@@ -3,10 +3,9 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-        x:Class="Barashikhina_Sofia.MainWindow"
-        Title="Barashikhina_Sofia"
+        x:Class="Barashikhina_Sofia.Admin"
+        Title="Admin"
         SizeToContent="WidthAndHeight">
-    
     <DockPanel>
 		<StackPanel
         Margin="100"
@@ -24,7 +23,7 @@
                 <TextBlock Grid.Column="0"
                             HorizontalAlignment="Right"
                              FontSize="20">
-					Название организации: </TextBlock>
+					Логин: </TextBlock>
 			<TextBox
             HorizontalAlignment="Left"
             Grid.Column="1"
@@ -41,7 +40,7 @@
                 <TextBlock Grid.Column="0"
                             HorizontalAlignment="Right"
                              FontSize="20">
-					Инн:  </TextBlock>
+				Пароль:  </TextBlock>
 			<TextBox
             HorizontalAlignment="Left"
             Grid.Column="1"
@@ -51,8 +50,8 @@
             </StackPanel>
             <Button
             Background="#dfe1fc"
-            Click="Next_Onclick" 
-            Name="Next"
+            Click="NextSec_Onclick" 
+            Name="NextSec"
             Width="200"
             Height="40"
             HorizontalAlignment="Center"
@@ -60,17 +59,6 @@
             FontSize="20">
 			Далее:
             </Button>
-             <Button
-            Background="#dfe1fc"
-            Click="Admin_OnClick" 
-            Name="Admin"
-            Width="200"
-            Height="40"
-            HorizontalAlignment="Center"
-            Margin="10,10" 
-            FontSize="20">
-			Администрация:
-            </Button>
-        </StackPanel>
+             </StackPanel>
     </DockPanel>
 </Window>

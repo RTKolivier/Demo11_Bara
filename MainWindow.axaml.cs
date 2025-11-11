@@ -17,5 +17,12 @@ namespace Barashikhina_Sofia
             Close();
 
         }
+
+        private void Admin_OnClick(object? sender, RoutedEventArgs e)
+        {
+            Admin admin = new Admin();
+            admin.Show();
+            Close ();
+        }
     }
 }
