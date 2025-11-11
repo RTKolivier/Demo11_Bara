@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|c:\\users\\demo\\desktop\\barashikhina_sofia\\barashikhina_sofia\\createorder.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|solutionrelative:barashikhina_sofia\\createorder.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|c:\\users\\demo\\desktop\\barashikhina_sofia\\barashikhina_sofia\\createorder.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|solutionrelative:barashikhina_sofia\\createorder.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|c:\\users\\demo\\desktop\\barashikhina_sofia\\barashikhina_sofia\\listproduct.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|solutionrelative:barashikhina_sofia\\listproduct.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|c:\\users\\demo\\desktop\\barashikhina_sofia\\barashikhina_sofia\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|solutionrelative:barashikhina_sofia\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|c:\\users\\demo\\desktop\\barashikhina_sofia\\barashikhina_sofia\\listproduct.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|solutionrelative:barashikhina_sofia\\listproduct.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|c:\\users\\demo\\desktop\\barashikhina_sofia\\barashikhina_sofia\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA30174-E616-4124-B31A-F02D2EE07F99}|Barashikhina_Sofia\\Barashikhina_Sofia.csproj|solutionrelative:barashikhina_sofia\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrder.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\CreateOrder.axaml",
+              "RelativeDocumentMoniker": "Barashikhina_Sofia\\CreateOrder.axaml",
+              "ToolTip": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\CreateOrder.axaml",
+              "RelativeToolTip": "Barashikhina_Sofia\\CreateOrder.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:05:57.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrder.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\CreateOrder.axaml.cs",
+              "RelativeDocumentMoniker": "Barashikhina_Sofia\\CreateOrder.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\CreateOrder.axaml.cs",
+              "RelativeToolTip": "Barashikhina_Sofia\\CreateOrder.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:05:57.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListProduct.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\ListProduct.axaml",
+              "RelativeDocumentMoniker": "Barashikhina_Sofia\\ListProduct.axaml",
+              "ToolTip": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\ListProduct.axaml",
+              "RelativeToolTip": "Barashikhina_Sofia\\ListProduct.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T12:18:54.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListProduct.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\ListProduct.axaml.cs",
+              "RelativeDocumentMoniker": "Barashikhina_Sofia\\ListProduct.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\ListProduct.axaml.cs",
+              "RelativeToolTip": "Barashikhina_Sofia\\ListProduct.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:18:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Barashikhina_Sofia\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\MainWindow.axaml",
+              "RelativeToolTip": "Barashikhina_Sofia\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T10:27:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Barashikhina_Sofia\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\demo\\Desktop\\Barashikhina_Sofia\\Barashikhina_Sofia\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Barashikhina_Sofia\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:27:39.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
