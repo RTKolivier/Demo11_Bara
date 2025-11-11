@@ -1,4 +1,5 @@
-using Avalonia.Controls;
+﻿using Avalonia.Controls;
+using Avalonia.Interactivity;
 
 namespace Barashikhina_Sofia
 {
@@ -7,6 +8,14 @@ namespace Barashikhina_Sofia
         public MainWindow()
         {
             InitializeComponent();
+
+        }
+        private void Next_Onclick(object? sender, RoutedEventArgs e)
+        {
+            ListProduct listProduct = new ListProduct();
+            listProduct.Show();
+            Close();
+
         }
     }
 }

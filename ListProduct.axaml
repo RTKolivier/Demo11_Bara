@@ -1,0 +1,48 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Barashikhina_Sofia.ListProduct"
+        Title="ListProduct"
+        SizeToContent="WidthAndHeight"
+        >
+    <DockPanel>
+        <StackPanel>
+			<Button
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Width="200"
+            Height="50"
+            FontSize="20"
+            Margin="10"
+            Click="Create_OnClick"
+            Background="#dfe1fc">
+                Создание заказа:
+            </Button>
+        </StackPanel>
+		<StackPanel
+        Background="#f1f2fe">
+			<ScrollViewer
+             Background="#dfe1fc">
+				<ScrollViewer>
+    <StackPanel
+    Margin="10"
+    HorizontalAlignment="Center"
+    VerticalAlignment="Center">
+      <TextBlock FontSize="22" Height="30" Background="White" >Закваска сметанная - 45 рублей</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="#bdc1fa" >Кефир 2,5% 900г. - 80 рублей</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="White">Кефир 3,2% 900г. - 82 рубля</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="#bdc1fa" >Молоко 2,5% 900г. - 70 рублей</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="White">Молоко 3,2% 900г. - 76 рублей</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="#bdc1fa" >Молоко нормализованное - 34 рублей</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="White">Сметана классическая 15% 540г. - 89 рублей</TextBlock>
+      <TextBlock FontSize="22" Height="30" Background="#bdc1fa" >Сметана классическая 20% 540г.е - 92 рублей</TextBlock>
+    </StackPanel>
+  </ScrollViewer>
+            </ScrollViewer>
+           <StackPanel></StackPanel>
+        </StackPanel>
+    </DockPanel>
+</Window>
+

@@ -1,0 +1,57 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Barashikhina_Sofia.CreateOrder"
+        Title="CreateOrder"
+        SizeToContent="WidthAndHeight">
+    <DockPanel>
+		<StackPanel>
+           <Border Margin="100,30,100,10" CornerRadius="10" Background="#dfe1fc"
+                     Width="200">
+        <TextBlock Margin="5"
+            HorizontalAlignment="Center"
+            FontSize="20"
+            Text="Создание заказа:" />
+    </Border>
+			<Grid ColumnDefinitions="300,300"
+         Margin="10">
+                <TextBlock Grid.Column="0"
+               HorizontalAlignment="Right"
+               FontSize="20"
+               VerticalAlignment="Center">
+					Количество позиций:
+                </TextBlock>
+				<TextBox Grid.Column="1"
+                HorizontalAlignment="Left"
+                Width="200">
+                </TextBox>
+            </Grid>
+            <Grid ColumnDefinitions="300,300"
+         Margin="10">
+                <TextBlock Grid.Column="0"
+               HorizontalAlignment="Right"
+               FontSize="20"
+               VerticalAlignment="Center">
+					Позиция 1:</TextBlock>
+				<ComboBox  Grid.Column="1"
+   HorizontalAlignment="Left"
+Width="190"
+Margin="10">
+</ComboBox>
+            </Grid>
+           <Button
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Width="200"
+            Height="50"
+            FontSize="20"
+            Margin="10"
+            Click="Add_OnClick"
+            Background="#dfe1fc">
+                Посчитать заказ:
+            </Button>
+        </StackPanel>
+    </DockPanel>
+</Window>

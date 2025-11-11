@@ -32,5 +32,11 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/demo/Desktop/Barashikhina_Sofia/Barashikhina_Sofia/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/demo/Desktop/Barashikhina_Sofia/Barashikhina_Sofia/CreateOrder.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/demo/Desktop/Barashikhina_Sofia/Barashikhina_Sofia/ListProduct.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/demo/Desktop/Barashikhina_Sofia/Barashikhina_Sofia/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
